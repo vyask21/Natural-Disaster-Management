@@ -11,18 +11,18 @@
 
         <!-- CSS -->   
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">     
-        <link rel="stylesheet" href="../assets/cssbootstrap/css/bootstrap.min.css"> <!-- //allignment of form -->
-        <link rel="stylesheet" href="../assets/cssfont-awesome/css/font-awesome.min.css"> <!-- //fonts -->
-        <link rel="stylesheet" href="../assets/csscss/form-elements.css"> <!-- //form control style -->
-        <link rel="stylesheet" href="../assets/csscss/style.css"> <!-- //form control style --> 
-        <link rel="stylesheet" href="../assets/csscss/c.css">          
+        <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css"> <!-- //allignment of form -->
+        <link rel="stylesheet" href="../assets/font-awesome/css/font-awesome.min.css"> <!-- //fonts -->
+        <link rel="stylesheet" href="../assets/css/form-elements.css"> <!-- //form control style -->
+        <link rel="stylesheet" href="../assets/css/style.css"> <!-- //form control style --> 
+        <link rel="stylesheet" href="../assets/css/c.css">          
 
         
-        <link rel="stylesheet" href="../assets/csscss/font.css">
-        <link rel="stylesheet" href="../assets/csscss/commons.css">
-        <link rel="stylesheet" href="../assets/csscss/owid.css">      
+        <link rel="stylesheet" href="../assets/css/font.css">
+        <link rel="stylesheet" href="../assets/css/commons.css">
+        <link rel="stylesheet" href="../assets/css/owid.css">      
         <!-- Favicon and touch icons -->
-        <link rel="shortcut icon" href="../assets/cssico/favicon.ico">
+        <link rel="shortcut icon" href="../assets/ico/favicon.ico">
 
         
         <style type="text/css">        
@@ -272,7 +272,7 @@
        </div>
      <div id="ad">
 
-        <br><a href="https://www.indianredcross.org/ircs/index.php" target="_blank"><img src="../assets/cssimg/ad.png" alt="Red Cross" width="400" height="90" border="0"></a>
+        <br><a href="https://www.indianredcross.org/ircs/index.php" target="_blank"><img src="../assets/img/ad.png" alt="Red Cross" width="400" height="90" border="0"></a>
             </div>
 
 

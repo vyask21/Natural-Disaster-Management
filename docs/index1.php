@@ -16,19 +16,19 @@ session_start();
 
         <!-- CSS -->   
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">     
-        <link rel="stylesheet" href="../assets/cssbootstrap/css/bootstrap.min.css"><!-- //allignment of form -->
-        <link rel="stylesheet" href="../assets/cssfont-awesome/css/font-awesome.min.css"> <!-- //fonts -->
-        <link rel="stylesheet" href="../assets/csscss/form-elements.css"> <!-- //form control style -->
-        <link rel="stylesheet" href="../assets/csscss/style.css"> <!-- //form control style -->  
-        <link rel="stylesheet" href="../assets/csscss/bg.css">
-        <link rel="stylesheet" href="../assets/csscss/dm.css">
+        <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css"><!-- //allignment of form -->
+        <link rel="stylesheet" href="../assets/font-awesome/css/font-awesome.min.css"> <!-- //fonts -->
+        <link rel="stylesheet" href="../assets/css/form-elements.css"> <!-- //form control style -->
+        <link rel="stylesheet" href="../assets/css/style.css"> <!-- //form control style -->  
+        <link rel="stylesheet" href="../assets/css/bg.css">
+        <link rel="stylesheet" href="../assets/css/dm.css">
 
 
-        <link rel="stylesheet" href="../assets/csscss/font.css">
-        <link rel="stylesheet" href="../assets/csscss/commons.css">
-        <link rel="stylesheet" href="../assets/csscss/owid.css">      
+        <link rel="stylesheet" href="../assets/css/font.css">
+        <link rel="stylesheet" href="../assets/css/commons.css">
+        <link rel="stylesheet" href="../assets/css/owid.css">      
         <!-- Favicon and touch icons -->
-        <link rel="shortcut icon" href="../assets/cssico/favicon.ico">
+        <link rel="shortcut icon" href="../assets/ico/favicon.ico">
 
         <style type="text/css">
 
@@ -191,7 +191,7 @@ session_start();
 		        </button>
 		      </div>
 		      <div class="modal-body">
-		      	<div><img src="../assets/cssimg/earthquake.jpg" alt="earthquake"></div>
+		      	<div><img src="../assets/img/earthquake.jpg" alt="earthquake"></div>
 		       Surviving an earthquake and reducing its health impact requires preparation, planning, and practice.
 				Far in advance, you can gather emergency supplies, identify and reduce possible hazards in your home, and practice what to do during and after an earthquake.
 				Learning what actions to take can help you and your family to remain safe and healthy in the event of an earthquake.<br><strong>Before an Earthquake</strong><ul><li>1. Being Prepared</li><li>2. Emergency Supplies</li></ul><br><strong>During an Earthquake</strong><ul><li><u>Indoor Safety</u><br>1. <strong>DROP</strong> down onto your hands and knees before the earthquake knocks you down. This position protects you from falling but allows you to still move if necessary.<br>
@@ -212,7 +212,7 @@ session_start();
 		        </button>
 		      </div>
 		      <div class="modal-body">
-		      	<img src="../assets/cssimg/flood.jpg" alt="flood">
+		      	<img src="../assets/img/flood.jpg" alt="flood">
 		       Floods, big or small, can have devastating effects on your home and your family. You can take steps to reduce the harm caused by flooding. Learn how to prepare for a flood, stay safe during a flood, and protect your health when you return home after a flood.<br><strong>Preparing for a Flood:</strong><ul><li>Learn how to prepare for a flood, including how to create a plan, supplies you’ll need, and getting your home ready.</li><li>Floodwater and standing water can be dangerous. Protect yourself and your loved ones from risks brought on by floods.</li></ul><strong>Floodwater Safety:</strong><ul><li>Don’t drive in flooded areas</li><li>Stay out of floodwater.</li><li>Prevent injuries.</li><li>Be aware of possible chemicals in floodwater.</li><li>Avoid electrical hazards inside or outside your home.</li></ul>
 		      </div>		     
 		    </div>
@@ -230,7 +230,7 @@ session_start();
 		        </button>
 		      </div>
 		      <div class="modal-body">
-		      	<img src="../assets/cssimg/tsunami.jpg" alt="tsunami">
+		      	<img src="../assets/img/tsunami.jpg" alt="tsunami">
 		       Tsunamis, also known as seismic sea waves, are a series of enormous waves created by an underwater disturbance such as an earthquake, landslide, volcanic eruption, or meteorite. A tsunami can strike anywhere along most of the U.S. coastline. Learn more about tsunamis and get information about health concerns after a tsunami including food and water safety.<br><strong>Health Effects of Tsunamis</strong><ul><li>Primary public health concerns are clean drinking water, food, shelter, and medical care for injuries.</li><li>Can pose health risks such as contaminated water and food supplies</li><li>Loss of shelter leaves people vulnerable to insect exposure, heat, and other environmental hazards</li></ul>
 		      </div>
 		      
@@ -249,7 +249,7 @@ session_start();
 		        </button>
 		      </div>
 		      <div class="modal-body">
-		      	<img src="../assets/cssimg/heat.jpg" alt="heat">
+		      	<img src="../assets/img/heat.jpg" alt="heat">
 		       Heat-related deaths and illnesses are preventable. Despite this fact, more than 600 people in India are killed by extreme heat every year. <br>Extreme heat is defined as summertime temperatures that are much hotter and/or humid than average. Because some places are hotter than others, this depends on what’s considered average for a particular location at that time of year. Humid and muggy conditions can make it seem hotter than it really is.<br><strong>Tips for Preventing Heat-Related Illness</strong><ul><li>Wear Appropriate Clothing:</li><li>Schedule Outdoor Activities Carefully</li><li>Drink Plenty of Fluids</li></ul>
 		      </div>		      
 		    </div>
